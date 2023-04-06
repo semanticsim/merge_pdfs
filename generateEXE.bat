@@ -1,0 +1,1 @@
+pyinstaller --onefile --windowed --additional-hooks-dir=. merge_pdfs.py
